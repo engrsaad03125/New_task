@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586055469031.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3826124223",
+    "id" : "9DE18029",
+    "lastKnownWriteTime" : 1586055522,
+    "last_content_update" : 1586055522678,
+    "path" : "C:/Users/Muhammad OA/Desktop/Saad/New_task/Sample file.R",
+    "project_path" : "Sample file.R",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
